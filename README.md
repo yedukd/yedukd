@@ -1,5 +1,6 @@
-# Hi there, I'm Yedu 👋
+# Hi there, I'm Yedu 
 
+🚀 DevOps Engineer | Cloud | Automation | CI/CD | Kubernetes |  IT Support 
 <!--
 **yedukd/yedukd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
