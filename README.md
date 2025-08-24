@@ -12,11 +12,13 @@
 -->
 </p>
 
-<p style="font-size:20px;text-align:center;">
-Hi there, I'm Yedu Krishnan KD
-
-🚀 DevOps Engineer | Cloud | Automation | CI/CD | Kubernetes |  IT Support 
-</p> 
+<div align="center">
+  <p style="font-size:20px;">
+    Hi there, I'm <b>Yedu Krishnan KD</b> <br><br>
+    🚀 DevOps Engineer | Cloud | Automation | CI/CD | Kubernetes | IT Support
+  </p>
+</div>
+ 
 
 ---
 
