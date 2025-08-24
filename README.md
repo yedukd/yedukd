@@ -14,9 +14,12 @@
 
 <p style="font-size:20px;text-align:center;">
 Hi there, I'm Yedu Krishnan KD
+</p>
 
-                    🚀 DevOps Engineer | Cloud | Automation | CI/CD | Kubernetes |  IT Support 
+<p style="font-size:20px;text-align:center;" align="center">
+🚀 DevOps Engineer | Cloud | Automation | CI/CD | Kubernetes |  IT Support 
 </p> 
+
 
 ---
 
