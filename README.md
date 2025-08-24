@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/yedu-temp.png" width="1200" height="500" alt="Banner"/>
+  <img src="./assets/yedu-temp.PNG" width="1200" height="500" alt="Banner"/>
 </p>
 
 <p align="center">
